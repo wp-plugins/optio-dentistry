@@ -1,0 +1,26 @@
+/* Toolbar icons */
+
+.mce-btn.mce-optio-library i.mce-ico,
+.mce-btn.mce-optio-video i.mce-ico,
+.mce-btn.mce-optio-lightbox i.mce-ico {
+    color: #38a0b4;
+    font: 400 20px/1 dashicons;
+    -webkit-font-smoothing: antialiased;
+    speak: none;
+    vertical-align: top;
+}
+.mce-btn.mce-optio-library .mce-ico:before {
+    content: '\f331';
+}
+.mce-btn.mce-optio-video .mce-ico:before {
+    content: '\f126';
+}
+.mce-btn.mce-optio-lightbox .mce-ico:before {
+    content: '\f103';
+}
+
+/* Dialogs */
+
+.mce-window.mce-optio-dialog .mce-window-head {
+    border-bottom: 0;
+}
