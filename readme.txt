@@ -3,7 +3,7 @@ Contributors: optio
 Tags: dental, dentistry, orthodontics, cosmetic dentistry, video
 Requires at least: 4.2
 Tested up to: 4.2.2
-Stable tag: trunk
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
